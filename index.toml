@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "f6c9cb7c3991d7866a9c77cb7cc546e38561620f1004660f765ec162ecc5674b"
 
 [[files]]
+file = "TODO.md"
+hash = "d126a96d068206c5440fec291d9f60e2ac6780e32a8f45581d9c19b215ef7951"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
@@ -145,6 +149,11 @@ hash = "054a1887da4f14b791910660a2a7a2035ac1382461b881a65fe07b224c03735f"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "297eb75ce1aedc28f183a8891fde9c67318953e6c8adf3d7531a17b211f9349d"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "eba62fcfbe8678c035ef239481af4f01b21b33d198f8bf7467726e02bf37f845"
 metafile = true
@@ -152,6 +161,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "6467dadbfa6d0b3e8a8a8126b5358748c0ee8abfed322cb1fd5372e4b7507806"
 metafile = true
 
 [[files]]
