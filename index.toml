@@ -10,7 +10,7 @@ hash = "2129559e8e73a9b3590fea568f910852701fc8c7e86027a1bcd123d09c1c03a3"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "a38485e4ab9e13b7fa487a49f8628b6e8e7066f54ebe8c0d95941638ba5891e1"
+hash = "40ce575a898063bf3d0a47a3cdc486bd4f9dfd17c5a73b967bb558295c441ba3"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
