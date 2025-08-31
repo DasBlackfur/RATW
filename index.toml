@@ -90,12 +90,12 @@ metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
-hash = "1b391fef75582ef9d935c095646a28db239ba4792a4ce0e8778b5e1650b20d5f"
+hash = "1f5047efcbdbcfe334a9841a69b7a51b188cdfe1fc00b9e4ed277c4cfec161a8"
 metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "470aa87612a0fad97ee2566e091ddc5ff115c3cde7214d831cb95a5dc34ba531"
+hash = "51416be9d28c95a3c77e6de16dc155014b3bfb43dba332f93822d20ae3fed74c"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "463385975fab46c9e6c80286d62ae61b7b2b95e0f2ef4fb0c7ef9a37e7636b6e"
+hash = "a4ed4acc93e95e333b0613dcb9038a5026bb6ee4d66c736ddae221fd52fd61b6"
 metafile = true
 
 [[files]]
@@ -235,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
-hash = "9d6563ede5f11c5b2e48f728f16665cfb21d307e6cccebedb7f65a5e1fdce071"
+hash = "8f5f308ef5f265fac7efc01fd9413ed94733788cb6b141f4da7948c5b3dcc2f8"
 metafile = true
 
 [[files]]
@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
-hash = "7b9d8b2cd26fa320b7d40b0c68b85f3ae0c1516f896239bf5d9ede1f90761be1"
+hash = "7379e80a7595fbc1bbae69ce7fa89e9cdceb6d84d618a1c94fa590cb37bba02a"
 metafile = true
 
 [[files]]
@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
-hash = "4ba42e13f09ee4ea555e430aadc54b2d6e4ffa0ac2f0aebfa5a0542f193c5f47"
+hash = "f62c5f9d705673364e974664b9b1e31dd71ba62cf49ef9b3ca60a1c75e562718"
 metafile = true
 
 [[files]]
@@ -356,6 +356,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "9b8940ac83dde84cfc59860c6544a4b1194e635786c26bd47dc15eee79e63598"
+metafile = true
+
+[[files]]
+file = "mods/yeetus-experimentus.pw.toml"
+hash = "5e25dccab496945a5f19bb82383e0ebf98452ffc14cd25c7e0259cc44312281a"
 metafile = true
 
 [[files]]
