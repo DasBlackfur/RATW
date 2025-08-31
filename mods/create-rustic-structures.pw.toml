@@ -1,0 +1,13 @@
+name = "Create: Rustic Structures [Forge/Fabric/NeoForge]"
+filename = "create_rustic_structures-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lmbZMkEZ/versions/WeXjf3zz/create_rustic_structures-1.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "bea3c97f747032abaec7469ac1dd87992349a0f754050de119c4b1912ef8dcc35c8c81cb60288ed75425027d2dfecca671fc6f3b51383c18a6d0416b84ddf7c3"
+
+[update]
+[update.modrinth]
+mod-id = "lmbZMkEZ"
+version = "WeXjf3zz"

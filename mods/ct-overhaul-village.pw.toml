@@ -1,0 +1,13 @@
+name = "ChoiceTheorem's Overhauled Village"
+filename = "[neoforge]ctov-3.5.10.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/fgmhI8kH/versions/2n6xbB1A/%5Bneoforge%5Dctov-3.5.10.jar"
+hash-format = "sha512"
+hash = "47886c4b3a85b2aeb7f86f79bcc811d77cefc5d750a838dcaa491ab6ae300116435aaec51c83445811366049a72aa0a092317eea34a628f609d1157a7b2b4a5a"
+
+[update]
+[update.modrinth]
+mod-id = "fgmhI8kH"
+version = "2n6xbB1A"
