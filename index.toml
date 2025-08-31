@@ -76,6 +76,11 @@ hash = "bf463928645c586cb57a4e02533ee300af3931cf9db9233dae7efc1826643d41"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
+metafile = true
+
+[[files]]
 file = "mods/corpse.pw.toml"
 hash = "d0c4db41717ede48a6f9c47ce2cd30a4336b7520279cac56649f96939cd1e7cb"
 metafile = true
@@ -363,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/vics-point-blank.pw.toml"
 hash = "04aeeeaefd75fb7af08852e44671385b4e135fdec8ddd2b58ae7459b96681276"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
 metafile = true
 
 [[files]]
