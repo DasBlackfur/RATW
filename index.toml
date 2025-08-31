@@ -6,7 +6,19 @@ hash = "f6c9cb7c3991d7866a9c77cb7cc546e38561620f1004660f765ec162ecc5674b"
 
 [[files]]
 file = "TODO.md"
-hash = "d126a96d068206c5440fec291d9f60e2ac6780e32a8f45581d9c19b215ef7951"
+hash = "2129559e8e73a9b3590fea568f910852701fc8c7e86027a1bcd123d09c1c03a3"
+
+[[files]]
+file = "config/item_obliterator.json5"
+hash = "a38485e4ab9e13b7fa487a49f8628b6e8e7066f54ebe8c0d95941638ba5891e1"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "c462b2554f698b4a869fa7c4596f064e67481f1dff61080b11c3368d35bdf01e"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "acf2bacf64261895123ff8b0bffbed94462fa9c5a277a252b8b9101f08876592"
 
 [[files]]
 file = "mods/2032-world-height.pw.toml"
@@ -134,11 +146,6 @@ hash = "a0b3f914a386d4236744bc749156bb7eca1014179a50e340af1ea4741198782f"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "3e381c462223da437f386a6f368e734131395f400b24a8cc0406f6e49c84418f"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
@@ -171,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/incendium.pw.toml"
 hash = "ef1faa467f5dfd37c40871575934dab645f15a70568e8268a9e477234bdd1c58"
+metafile = true
+
+[[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "139c5ee36d4528998d33d47ec4c5538f9ce7043b2197879db5f8945e8fe991bb"
 metafile = true
 
 [[files]]
@@ -251,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "abfc8909de1c851ccf4ef296e05d1017332a21fef76fd1f938828fcff925115b"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "f4e01222594116f7ebe3bd3908ae066550172eafb9a1ef383b277be569c38e45"
 metafile = true
 
 [[files]]

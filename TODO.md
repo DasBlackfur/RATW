@@ -1,8 +1,8 @@
 # Configure
-- Xearo Minimap
-- Xaero Worldmap
-- Distant Horizons
+- ~~Xearo Minimap~~
+- ~~Xaero Worldmap~~
+- Distant Horizons (?)
 
 # KubeJS
-- ban elytra
+- ~~ban elytra~~
 - simplify recipes
