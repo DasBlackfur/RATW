@@ -1,13 +1,16 @@
 name = "Rails around the World"
 author = "DasBlackfur"
-version = "0.1.0"
+version = "0.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e74a76a0a0ba8a8ca198f8f2028a3c919b8faea87e45fe318fa367a2ead0cf0f"
+hash = "bc4af06456e164a3b62fc422cafb1d9cf56fee4a431f037943e011b8da672c7b"
 
 [versions]
 minecraft = "1.21.1"
 neoforge = "21.1.206"
+
+[options]
+acceptable-game-versions = ["1.21"]

@@ -76,6 +76,11 @@ hash = "bf463928645c586cb57a4e02533ee300af3931cf9db9233dae7efc1826643d41"
 metafile = true
 
 [[files]]
+file = "mods/corpse.pw.toml"
+hash = "d0c4db41717ede48a6f9c47ce2cd30a4336b7520279cac56649f96939cd1e7cb"
+metafile = true
+
+[[files]]
 file = "mods/create-easy-structures.pw.toml"
 hash = "1d91b46a5973bda84e2b314878693ef5df83475b95569a75b00de096edfe3df4"
 metafile = true
@@ -166,11 +171,6 @@ hash = "79d8c527a416d0dfe54695701e13456580981084195ef4888bb1b61dcfa12e32"
 metafile = true
 
 [[files]]
-file = "mods/gravestone-mod.pw.toml"
-hash = "0c815744302126024748fcba41a404b9f5fe5b0c4c4e84a587dbf995b839c469"
-metafile = true
-
-[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
 metafile = true
@@ -178,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/incendium.pw.toml"
 hash = "ef1faa467f5dfd37c40871575934dab645f15a70568e8268a9e477234bdd1c58"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
 
 [[files]]
@@ -366,8 +371,13 @@ hash = "f62c5f9d705673364e974664b9b1e31dd71ba62cf49ef9b3ca60a1c75e562718"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "9d76c3683cfea5c5976823a000eacc9944db9f097894356d2a029cf36642ffa4"
+file = "mods/xaero-train-map.pw.toml"
+hash = "055508f48abfc3dc9705337d324fe839bbc88cd5cd06ce77f65b4bd2c976a983"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap-fair.pw.toml"
+hash = "8db37a6ca4f8fcd003f63a90f2a75c468be207b0150e68f060d494e346e2a051"
 metafile = true
 
 [[files]]

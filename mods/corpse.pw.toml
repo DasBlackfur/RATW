@@ -1,0 +1,13 @@
+name = "Corpse"
+filename = "corpse-neoforge-1.21.1-1.1.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WrpuIfhw/versions/9KagdOAl/corpse-neoforge-1.21.1-1.1.10.jar"
+hash-format = "sha512"
+hash = "7a7f4f53497e281678e3e2cf8e3fcbc7369564a32bf3c4b427e775f512745bb56a800e322e3f95aa9a127b25772ca495f4ec312e3049da2c5ce03fac8bff9365"
+
+[update]
+[update.modrinth]
+mod-id = "WrpuIfhw"
+version = "9KagdOAl"
