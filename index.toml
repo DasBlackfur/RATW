@@ -21,6 +21,22 @@ file = "config/xaeroworldmap-common.txt"
 hash = "acf2bacf64261895123ff8b0bffbed94462fa9c5a277a252b8b9101f08876592"
 
 [[files]]
+file = "kubejs/config/client.json"
+hash = "de241e99c33070805a1f039d6edb46c67cd92c93c7787e177fa38d15ed9007da"
+
+[[files]]
+file = "kubejs/config/common.json"
+hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
+
+[[files]]
+file = "kubejs/config/web_server.json"
+hash = "bdfc2d5fbe14b78dfeadc04a3ca4e3b5a74dde9e13a786005e2399ca84bb251f"
+
+[[files]]
+file = "kubejs/server_scripts/create_shortcut.js"
+hash = "1b23e3566b52a0d7bd2eed6fa1839e8eab3a0bce83ac28cad3d8eca6e06008c1"
+
+[[files]]
 file = "mods/2032-world-height.pw.toml"
 hash = "b617a01ee6459e9f47e27e8d705ca4bed7f58ea2afeb6a90641a80ad033b2b48"
 metafile = true
