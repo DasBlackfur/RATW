@@ -1,8 +1,10 @@
 # Configure
 - ~~Xearo Minimap~~
 - ~~Xaero Worldmap~~
-- Distant Horizons (?)
+- ~~Distant Horizons (?)~~
 
 # KubeJS
 - ~~ban elytra~~
-- simplify recipes
+- ~~simplify recipes~~
+- ~~add gun table crafting~~
+- ~~add farmers delight to grass~~

@@ -6,11 +6,19 @@ hash = "f6c9cb7c3991d7866a9c77cb7cc546e38561620f1004660f765ec162ecc5674b"
 
 [[files]]
 file = "TODO.md"
-hash = "2129559e8e73a9b3590fea568f910852701fc8c7e86027a1bcd123d09c1c03a3"
+hash = "7fd944231891c3c774f01e219100ebe4fb963609647cff9c822839b0e1c248e6"
 
 [[files]]
 file = "config/item_obliterator.json5"
 hash = "40ce575a898063bf3d0a47a3cdc486bd4f9dfd17c5a73b967bb558295c441ba3"
+
+[[files]]
+file = "config/paxi/datapacks/anti enderman grief v1.1.13 (MC 1.21-1.21.8).zip"
+hash = "49eeeb41dcc462672e2cb2666fa753940daaa1a75db9ad036f5a39e138fff6e3"
+
+[[files]]
+file = "config/paxi/datapacks/anti ghast grief v1.1.13 (MC 1.21-1.21.8).zip"
+hash = "b6c2befa973831f9a0aa3950f86686cbf89ac9e67c9f3f56c5d223e4aaddb1b3"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
@@ -19,6 +27,30 @@ hash = "c462b2554f698b4a869fa7c4596f064e67481f1dff61080b11c3368d35bdf01e"
 [[files]]
 file = "config/xaeroworldmap-common.txt"
 hash = "acf2bacf64261895123ff8b0bffbed94462fa9c5a277a252b8b9101f08876592"
+
+[[files]]
+file = "kubejs/.idea/kubejs.iml"
+hash = "0ff94b49c61885dd797e3da61dc3444c7ab48f317373ca42681910f1f8413752"
+
+[[files]]
+file = "kubejs/.idea/misc.xml"
+hash = "9d76f1a4782a5deca0abf2e4eaaffa311b0eb95407041f357c1a863441122382"
+
+[[files]]
+file = "kubejs/.idea/modules.xml"
+hash = "940d46ad2659b43ddc8be1abe6861346e66e7bd3df3a293e21fe4212eed883e4"
+
+[[files]]
+file = "kubejs/.idea/vcs.xml"
+hash = "269064f5ba7307dcd31a03b5c690698b3442c0f0024c1358361542f49f5509ae"
+
+[[files]]
+file = "kubejs/.idea/workspace.xml"
+hash = "6a3c236b820602a89f16cad6919b1dbc3f7c663255d9925617713cfe26f47d9e"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
 file = "kubejs/config/client.json"
@@ -35,6 +67,14 @@ hash = "bdfc2d5fbe14b78dfeadc04a3ca4e3b5a74dde9e13a786005e2399ca84bb251f"
 [[files]]
 file = "kubejs/server_scripts/create_shortcut.js"
 hash = "1b23e3566b52a0d7bd2eed6fa1839e8eab3a0bce83ac28cad3d8eca6e06008c1"
+
+[[files]]
+file = "kubejs/server_scripts/farmers_loot.js"
+hash = "e45b1121205a46a42089d43cc0160143416b73da0c4a47d5a4692bc588162f64"
+
+[[files]]
+file = "kubejs/server_scripts/vic_craft_workstation.js"
+hash = "96a55070275db92f1911da86536dd7df5adcaa14edb755525b87d58dac55f01d"
 
 [[files]]
 file = "mods/2032-world-height.pw.toml"
@@ -63,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/blocks-bogies.pw.toml"
-hash = "d9891a25f1785a26115b650fc71e379ffcd7ae644b89abeddb1afcbe74abc517"
+hash = "66d6a153c156b11e472bb4c226bb3a88b519cac4cf306904f6308965b8fe5333"
 metafile = true
 
 [[files]]
@@ -102,6 +142,11 @@ hash = "1d91b46a5973bda84e2b314878693ef5df83475b95569a75b00de096edfe3df4"
 metafile = true
 
 [[files]]
+file = "mods/create-food.pw.toml"
+hash = "946a389729193083c0f937e22f778be1e88f7429bdd25abefb22316af49d7da5"
+metafile = true
+
+[[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "36ca424432226ba50961b9a9a9e8a9b97e3a76763c9d82ce7c5492b0822cefc0"
 metafile = true
@@ -132,6 +177,11 @@ hash = "51416be9d28c95a3c77e6de16dc155014b3bfb43dba332f93822d20ae3fed74c"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "34fc0845727b08bc39e5b56444e0695b55f6a5471380f2d1d40c5548105da28e"
 metafile = true
@@ -139,6 +189,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "975f1280c712d2e86dd4ecddf89c516afbf3f1fb684499d3e5c71fc666c4888c"
+metafile = true
+
+[[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "9f511e824978b45d8d90244e921dafcbb9bc01d1e4aced66afac71740ffa5ff6"
 metafile = true
 
 [[files]]
@@ -164,6 +219,11 @@ metafile = true
 [[files]]
 file = "mods/explorify.pw.toml"
 hash = "a0b3f914a386d4236744bc749156bb7eca1014179a50e340af1ea4741198782f"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "44abae510395f12f9ea97b8296b2f72e25f18b9f3f2cc0ee42c0d9afd73fe0b3"
 metafile = true
 
 [[files]]
@@ -228,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "297eb75ce1aedc28f183a8891fde9c67318953e6c8adf3d7531a17b211f9349d"
+hash = "1a9ec5beaba1be3151b8710db2bfab90c2063a4dafaf2720336852245a145cc4"
 metafile = true
 
 [[files]]
@@ -302,6 +362,16 @@ hash = "71dba581a68de19790dd6888e515d8b693debfc915a18ffb82af473c395f4dd3"
 metafile = true
 
 [[files]]
+file = "mods/paxi.pw.toml"
+hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "989b2aeb18f4004fb9b7932951de4b38ffa0fc6bf5360ac32ffe9af08391d04d"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
@@ -328,7 +398,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "3fa8d5fc724d385454d3bcda9edf8f589ff71695504ca4bb88d3e9dcbf85d414"
+hash = "e9e41de110073bcf95c37c661aeaee6611916ce452a91ab0ab46526833aeb447"
 metafile = true
 
 [[files]]
@@ -409,6 +479,11 @@ metafile = true
 [[files]]
 file = "mods/yeetus-experimentus.pw.toml"
 hash = "5e25dccab496945a5f19bb82383e0ebf98452ffc14cd25c7e0259cc44312281a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
 metafile = true
 
 [[files]]
