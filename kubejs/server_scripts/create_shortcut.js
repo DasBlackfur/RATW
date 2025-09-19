@@ -33,6 +33,15 @@ ServerEvents.recipes(event => {
     "results": [{ "id": "create:sturdy_sheet" }]
   });
 
+  event.custom({
+    type: "create:mixing",
+    ingredients: [
+      { "tag": "c:end_stones" },
+      { "item": "minecraft:charcoal" }
+    ],
+    "results": [{ "id": "minecraft:gunpowder" }]
+  });
+
   event.shaped(
     Item.of("create:precision_mechanism", 1),
     [

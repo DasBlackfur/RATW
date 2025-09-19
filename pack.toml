@@ -1,12 +1,12 @@
 name = "Rails around the World"
 author = "DasBlackfur"
-version = "0.2.0"
+version = "0.2.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "55528d28b3c193c78e7b8ff16dd4be195c5e150db847413a2f355dc5c9f22bbc"
+hash = "3ab331b4cac99f438bf4a0a3e9fc123bb843242ae3ee0cd807bf00cd6ec9728c"
 
 [versions]
 minecraft = "1.21.1"

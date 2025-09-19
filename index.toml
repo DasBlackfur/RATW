@@ -66,11 +66,11 @@ hash = "bdfc2d5fbe14b78dfeadc04a3ca4e3b5a74dde9e13a786005e2399ca84bb251f"
 
 [[files]]
 file = "kubejs/server_scripts/create_shortcut.js"
-hash = "1b23e3566b52a0d7bd2eed6fa1839e8eab3a0bce83ac28cad3d8eca6e06008c1"
+hash = "f4c0148c79fdb30d4ae90bca93b8a6d22732d55c7f0f2b1c6d47620f6e14c226"
 
 [[files]]
 file = "kubejs/server_scripts/farmers_loot.js"
-hash = "e45b1121205a46a42089d43cc0160143416b73da0c4a47d5a4692bc588162f64"
+hash = "f19558793719795a0fbc16530920db0d8cd35f66474f696dd73268e07959a172"
 
 [[files]]
 file = "kubejs/server_scripts/vic_craft_workstation.js"
@@ -238,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "0f4baadff512e8a9ca8bb1beb36b3fac771f9d6e28de73b39da50548ac6c1ae8"
+hash = "f968e6fc82e436de54942b7e896ce26923d1e4c0ae852935d895742d33499926"
 metafile = true
 
 [[files]]
@@ -387,6 +387,11 @@ hash = "efbf6335f63bbe36976d27d294c9b649ab9102b02957c76bd3680e83f71c5d57"
 metafile = true
 
 [[files]]
+file = "mods/rustic-delight.pw.toml"
+hash = "5bfdc2a3aa53eefc0a380b0e682ade53431b0bdee84b0d3e005a44f5040eeec9"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
@@ -394,11 +399,6 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "f5476a132bfd78bfdc4335a62176da73da73190b639eac600f0ee3a9366ccbd9"
-metafile = true
-
-[[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "e9e41de110073bcf95c37c661aeaee6611916ce452a91ab0ab46526833aeb447"
 metafile = true
 
 [[files]]
